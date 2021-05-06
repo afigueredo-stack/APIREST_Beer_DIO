@@ -15,7 +15,7 @@ public class BeerDTOBuilder {
     private Long id = 1L;
 
     @Builder.Default
-    private String name = "Brahma";
+    private String name = "Devassa";
 
     @Builder.Default
     private String brand = "Ambev";
